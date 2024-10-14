@@ -1,7 +1,7 @@
 ![UI](https://github.com/sujatagunale/EasyRead/assets/151519281/ad757d91-cdee-45ea-882e-4b19e3fd532f)
 
 
-![1](https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB) ![2](https://img.shields.io/badge/-Refine-black?style=for-the-badge&logoColor=white&logo=refine&color=14141F) ![3] (https://img.shields.io/badge/-Ant_Design-black?style=for-the-badge&logoColor=white&logo=antdesign&color=0170FE)
+![1](https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB) ![2](https://img.shields.io/badge/-Refine-black?style=for-the-badge&logoColor=white&logo=refine&color=14141F) ![3](https://img.shields.io/badge/-Ant_Design-black?style=for-the-badge&logoColor=white&logo=antdesign&color=0170FE)
 
 
 # A CRM Dashboard
